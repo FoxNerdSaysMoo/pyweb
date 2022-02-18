@@ -1,0 +1,9 @@
+
+# IntelliJ project config
+.idea/
+
+# Python bytecode
+__pycache__/
+
+# Test file
+test.html
